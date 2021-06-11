@@ -1,0 +1,7 @@
+File from: [compressed/download.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
+
+File to: [b/home/techverx/Downloads/ild/img/download.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

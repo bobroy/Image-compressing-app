@@ -1,0 +1,7 @@
+File from: [home/Downloads/pizigani.jpg]
+
+File to: [home/Documentspizigani.jpg]
+
+Compression algorithm: [-]
+
+Description: File does not exist!
